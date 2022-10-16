@@ -1,0 +1,10 @@
+body {
+    background: url(img/father-and-childa.jpg);
+    background-size: cover;
+    font-size: 25px;
+    color: #E0FFFF;
+}
+
+i {
+    float: right;
+}
