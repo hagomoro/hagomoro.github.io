@@ -1,0 +1,1 @@
+# hagomoro.github.io
